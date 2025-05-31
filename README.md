@@ -3,6 +3,9 @@
 這是一個 Express + TypeScript 專案模板，
 包含基礎的開發工具設定，讓你能快速啟動新的 Express 專案。
 
+你可以點擊 Use this template 將這個專案模板生成為你的 repository，  
+並根據自己的偏好重新設定這些預設的工具鏈。
+
 ## 🚀 特色功能
 
 - **Express 5.x** - 最新版本的 Express.js
